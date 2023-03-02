@@ -7,14 +7,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content= "width=device-width">
   <title>Daisy Zhao | Software Developer</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" type= "text/css" />
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
   <header>
     <div>
-      <h1>Daisy Zhao<h1>
+      <h1>Daisy Zhao</h1>
       <p>Software Developer</p>
     </div>
     <nav>
@@ -42,7 +42,9 @@
       <ul>
         </p>
         </article>
-    <article id="Contact"
+     </body>   
+    <footer id="Contact"
              <h2>Contact Me</h2>
   <p>If you'd like to work with me, please reach out to me through: </p>
-  <link href="
+  <link href="https://www.linkedin.com/in/daisy-zhao-36b6b4268/">Linked-In
+</footer>
