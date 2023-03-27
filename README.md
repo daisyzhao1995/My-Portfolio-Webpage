@@ -46,6 +46,10 @@
     <footer id="Contact" >
              <h2>Contact Me</h2>
   <p>If you'd like to work with me, please reach out to me through: </p>
+  <p>
   <link href="https://www.linkedin.com/in/daisy-zhao-36b6b4268/">Linked-In
-  <link href="https://github.com/daisyzhao1995">Git-Hub
+      </p>
+  <p>
+    <link href="https://github.com/daisyzhao1995">Git-Hub
+      </p>
 </footer>
