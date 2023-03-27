@@ -26,12 +26,12 @@
 <hr>
       
    <main>
-   <article id="Intro"
+   <article id="Intro" >
             <h2>Hello!</h2>
       <p>My name is Daisy Zhao and I live in Los Angeles, California.</p>
       <p>I have lived in Los Angeles all my life, but I travel across the United States frequently due to the nature of my job. </p>
       </article>
-   <article id="About-Me"
+   <article id="About-Me" >
             <h2>About Me</h2>
       <p>I am currently working as a consultant for hospitals. However, as I get older, the travel life is no longer for me. I decided to join Thinkful's Engineering Flex program in order to expand my skillset and find a new career path. I wouldn't say coding is necessarily my passion, but I do believe it is the future. I love working amongst a team and sharing ideas. I believe that when you are working amongst a team, that is when you can learn the most. I am open to constructive criticism if it means I can better my coding skills. If there is something I do not understand, I will not stop until I am able to figure it out. </p>
     <p>Although I can be a little uptight with my work ethics, I do like to have fun:
@@ -43,8 +43,9 @@
         </p>
         </article>
      </body>   
-    <footer id="Contact"
+    <footer id="Contact" >
              <h2>Contact Me</h2>
   <p>If you'd like to work with me, please reach out to me through: </p>
   <link href="https://www.linkedin.com/in/daisy-zhao-36b6b4268/">Linked-In
+  <link href="https://github.com/daisyzhao1995">Git-Hub
 </footer>
